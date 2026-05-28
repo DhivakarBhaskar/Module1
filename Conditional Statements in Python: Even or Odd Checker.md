@@ -14,5 +14,5 @@ To write a Python program to check whether the given number is **even** or **odd
 ## 🧾 Program
 
 ## Output
-
+<img width="852" height="265" alt="image" src="https://github.com/user-attachments/assets/c838ea12-2a18-4099-83f9-c4a3dd05556a" />
 ## Result
